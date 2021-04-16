@@ -29,6 +29,12 @@ http://localhost:8000/employees/salary?query=1040&comparison=lt
 
 http://localhost:8000/employees/age?query=50&comparison=gt&extra_for_compare=70
 
+`GET /employees/company?query=Yandex`
+
+##### Список сотрудников в компании Yandex.
+
+http://localhost:8000/employees/company?query=Yandex
+
 
 
 ![Screenshot_5](https://user-images.githubusercontent.com/74962029/115070424-98a81980-9efd-11eb-8df8-fb9629a78dc5.jpg)
