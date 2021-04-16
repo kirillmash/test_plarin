@@ -10,6 +10,7 @@ REST API service with fastapi
 2. For tests write in the terminal `docker-compose exec web pytest`
 
 Application will be available at http://127.0.0.1:8000
+You can see documentation at url http://127.0.0.1:8000/docs
 
 
 
