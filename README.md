@@ -1,4 +1,4 @@
-# PLARINnTEST
+# PLARIN TEST
 
 
 REST API service with fastapi
