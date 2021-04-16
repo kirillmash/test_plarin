@@ -1,0 +1,6 @@
+fastapi==0.63.0
+motor==2.4.0
+uvicorn==0.13.4
+pydantic[email]
+pytest==6.2.3
+requests==2.25.1
